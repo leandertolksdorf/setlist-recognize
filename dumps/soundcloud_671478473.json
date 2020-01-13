@@ -1,0 +1,3319 @@
+{
+    "source": "soundcloud",
+    "url": "https://soundcloud.com/wildwoodpodcastseries/106-julian-wassermann-ger",
+    "track_id": "671478473",
+    "title": "#106 - Julian Wassermann (GER) by Wildwood Podcast Series",
+    "recognizer": "ACRCloud",
+    "results": [
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:54:46",
+                "music": [
+                    {
+                        "label": "Rekids",
+                        "play_offset_ms": 174980,
+                        "contributors": {
+                            "composers": [
+                                "Laurent Garnier & Chambray"
+                            ],
+                            "lyricists": [
+                                "Laurent Garnier & Chambray"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "GBLTF1900068",
+                            "upc": "5060670886576"
+                        },
+                        "artists": [
+                            {
+                                "name": "Laurent Garnier & Chambray"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "f5b7a9c6a8b2e25a4015c4f332aa87a1",
+                        "title": "Feelin' Good (Radio Slave Revenge Remix)",
+                        "duration_ms": 449320,
+                        "album": {
+                            "name": "Feelin' Good"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Feelin' Good (Radio Slave Revenge Remix)",
+                                    "id": "698872902"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 5469,
+                                        "name": "Laurent Garnier"
+                                    },
+                                    {
+                                        "id": 5497710,
+                                        "name": "Chambray"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 100847582
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "name": "Feelin' Good - Radio Slave Revenge Remix",
+                                    "id": "0LNjQJFTmm1c2tGKET5DGQ"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Laurent Garnier",
+                                        "id": "3y1SoTOdrmRNTBVph5T0VZ"
+                                    },
+                                    {
+                                        "name": "Chambray",
+                                        "id": "4FUZzDnu4gBue46G99hesO"
+                                    },
+                                    {
+                                        "name": "Radio Slave",
+                                        "id": "4rzWjR3L3M54c6I25NzdM3"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Feelin' Good",
+                                    "id": "3AQS7MViSkfMJi1f9RnMLX"
+                                }
+                            }
+                        },
+                        "release_date": "2019-07-12"
+                    }
+                ]
+            },
+            "cost_time": 0.375,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:54:47",
+                "music": [
+                    {
+                        "label": "Crossfrontier Audio",
+                        "play_offset_ms": 314000,
+                        "external_ids": {
+                            "isrc": "DEY471617348",
+                            "upc": "4251243872633"
+                        },
+                        "artists": [
+                            {
+                                "name": "Patrick Carrera"
+                            },
+                            {
+                                "name": "MUUI"
+                            }
+                        ],
+                        "result_from": 1,
+                        "acrid": "69599c3b27b139eff8969f020568a90e",
+                        "title": "Lore",
+                        "duration_ms": 468000,
+                        "album": {
+                            "name": "Kinas"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "139925079"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4380326"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "15054255"
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "id": "48OBsF3ajdalyAciqTNTPy"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4uprJRAH1f3978H1YMzqWY"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "7eC7lLWcJh7ArcUDuXUOuD"
+                                }
+                            }
+                        },
+                        "release_date": "2016"
+                    }
+                ]
+            },
+            "cost_time": 0.46600008010864,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:54:51",
+                "music": [
+                    {
+                        "label": "Awen Records",
+                        "play_offset_ms": 192240,
+                        "contributors": {
+                            "composers": [
+                                "Jeancy"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "US83Z1912465",
+                            "upc": "853565706050"
+                        },
+                        "artists": [
+                            {
+                                "name": "Jeancy"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "35ec155f204a0215f8247f4a208ad7f4",
+                        "title": "Late Beats",
+                        "duration_ms": 444000,
+                        "album": {
+                            "name": "Early Beats"
+                        },
+                        "score": 70,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Late Beats",
+                                    "id": "676805572"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 1966661,
+                                        "name": "Jeancy"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 96181802
+                                }
+                            }
+                        },
+                        "release_date": "2019-06-03"
+                    }
+                ]
+            },
+            "cost_time": 0.085000038146973,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:54:51",
+                "music": [
+                    {
+                        "play_offset_ms": 395620,
+                        "artists": [
+                            {
+                                "name": "Jan Blomqvist"
+                            }
+                        ],
+                        "acrid": "ed3afce33ecf74a8b1580da1f0c95c02",
+                        "genres": [
+                            {
+                                "name": "Electro|Dance|Disco"
+                            }
+                        ],
+                        "album": {
+                            "name": "The Space In Between (Ben B\u00f6hmer Remix)"
+                        },
+                        "label": "Kontor Records",
+                        "external_ids": {
+                            "isrc": "NLF711806854",
+                            "upc": "8718522208997"
+                        },
+                        "result_from": 3,
+                        "contributors": {
+                            "composers": [
+                                "Jan Freter",
+                                "Felix Lehmann",
+                                "Ryan Mathiesen"
+                            ],
+                            "lyricists": [
+                                "Jan Freter",
+                                "Felix Lehmann",
+                                "Ryan Mathiesen"
+                            ]
+                        },
+                        "title": "The Space In Between (Ben B\u00f6hmer Extended Remix)",
+                        "duration_ms": 475960,
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "510562582"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Jan Blomqvist",
+                                        "id": "1656026"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "65399662"
+                                }
+                            }
+                        },
+                        "release_date": "2018-06-29"
+                    }
+                ]
+            },
+            "cost_time": 0.073999881744385,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:54:52",
+                "music": [
+                    {
+                        "label": "Crossfrontier Audio",
+                        "play_offset_ms": 13900,
+                        "external_ids": {
+                            "isrc": "DEY471617348",
+                            "upc": "4251243872633"
+                        },
+                        "artists": [
+                            {
+                                "name": "Patrick Carrera"
+                            },
+                            {
+                                "name": "MUUI"
+                            }
+                        ],
+                        "result_from": 1,
+                        "acrid": "69599c3b27b139eff8969f020568a90e",
+                        "title": "Lore",
+                        "duration_ms": 468000,
+                        "album": {
+                            "name": "Kinas"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "139925079"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4380326"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "15054255"
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "id": "48OBsF3ajdalyAciqTNTPy"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4uprJRAH1f3978H1YMzqWY"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "7eC7lLWcJh7ArcUDuXUOuD"
+                                }
+                            }
+                        },
+                        "release_date": "2016"
+                    }
+                ]
+            },
+            "cost_time": 0.28700017929077,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:54:53",
+                "music": [
+                    {
+                        "label": "Diynamic Music",
+                        "play_offset_ms": 354060,
+                        "contributors": {
+                            "composers": [
+                                "Guy Mantzur"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "DEDH71600012",
+                            "upc": "4018939295622"
+                        },
+                        "artists": [
+                            {
+                                "name": "Guy Mantzur"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "22e0c55ac252f1c667ae1ad76db49683",
+                        "title": "Trees of Eden",
+                        "duration_ms": 556000,
+                        "album": {
+                            "name": "Four to the Floor 06"
+                        },
+                        "score": 100,
+                        "external_metadata": {},
+                        "release_date": "None"
+                    }
+                ]
+            },
+            "cost_time": 0.27799987792969,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:54:54",
+                "music": [
+                    {
+                        "play_offset_ms": 43940,
+                        "artists": [
+                            {
+                                "name": "Dyzen"
+                            }
+                        ],
+                        "acrid": "4ea19b45eb24a2ac27f53c1f3212a19a",
+                        "genres": [
+                            {
+                                "name": "Dance - Techno"
+                            }
+                        ],
+                        "album": {
+                            "name": "Talisman"
+                        },
+                        "label": "Oddity Records",
+                        "external_ids": {
+                            "isrc": "UKACT1930934",
+                            "upc": "3615939330387"
+                        },
+                        "result_from": 3,
+                        "contributors": {
+                            "composers": [
+                                "Francesco Perrone",
+                                "Nicola Disabato"
+                            ],
+                            "lyricists": [
+                                "Francesco Perrone",
+                                "Nicola Disabato"
+                            ]
+                        },
+                        "title": "Talisman",
+                        "duration_ms": 488380,
+                        "score": 61,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Talisman",
+                                    "id": "697459152"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 14735759,
+                                        "name": "Dyzen"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 100553472
+                                }
+                            }
+                        },
+                        "release_date": "2019-08-02"
+                    }
+                ]
+            },
+            "cost_time": 0.2519998550415,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:54:57",
+                "music": [
+                    {
+                        "play_offset_ms": 215360,
+                        "artists": [
+                            {
+                                "name": "Jan Blomqvist"
+                            }
+                        ],
+                        "acrid": "ed3afce33ecf74a8b1580da1f0c95c02",
+                        "genres": [
+                            {
+                                "name": "Electro|Dance|Disco"
+                            }
+                        ],
+                        "album": {
+                            "name": "The Space In Between (Ben B\u00f6hmer Remix)"
+                        },
+                        "label": "Kontor Records",
+                        "external_ids": {
+                            "isrc": "NLF711806854",
+                            "upc": "8718522208997"
+                        },
+                        "result_from": 3,
+                        "contributors": {
+                            "composers": [
+                                "Jan Freter",
+                                "Felix Lehmann",
+                                "Ryan Mathiesen"
+                            ],
+                            "lyricists": [
+                                "Jan Freter",
+                                "Felix Lehmann",
+                                "Ryan Mathiesen"
+                            ]
+                        },
+                        "title": "The Space In Between (Ben B\u00f6hmer Extended Remix)",
+                        "duration_ms": 475960,
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "510562582"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Jan Blomqvist",
+                                        "id": "1656026"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "65399662"
+                                }
+                            }
+                        },
+                        "release_date": "2018-06-29"
+                    }
+                ]
+            },
+            "cost_time": 0.066999912261963,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:00",
+                "music": [
+                    {
+                        "label": "Rekids",
+                        "play_offset_ms": 310420,
+                        "contributors": {
+                            "composers": [
+                                "Laurent Garnier & Chambray"
+                            ],
+                            "lyricists": [
+                                "Laurent Garnier & Chambray"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "GBLTF1900068",
+                            "upc": "5060670886576"
+                        },
+                        "artists": [
+                            {
+                                "name": "Laurent Garnier & Chambray"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "f5b7a9c6a8b2e25a4015c4f332aa87a1",
+                        "title": "Feelin' Good (Radio Slave Revenge Remix)",
+                        "duration_ms": 449320,
+                        "album": {
+                            "name": "Feelin' Good"
+                        },
+                        "score": 91,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Feelin' Good (Radio Slave Revenge Remix)",
+                                    "id": "698872902"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 5469,
+                                        "name": "Laurent Garnier"
+                                    },
+                                    {
+                                        "id": 5497710,
+                                        "name": "Chambray"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 100847582
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "name": "Feelin' Good - Radio Slave Revenge Remix",
+                                    "id": "0LNjQJFTmm1c2tGKET5DGQ"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Laurent Garnier",
+                                        "id": "3y1SoTOdrmRNTBVph5T0VZ"
+                                    },
+                                    {
+                                        "name": "Chambray",
+                                        "id": "4FUZzDnu4gBue46G99hesO"
+                                    },
+                                    {
+                                        "name": "Radio Slave",
+                                        "id": "4rzWjR3L3M54c6I25NzdM3"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Feelin' Good",
+                                    "id": "3AQS7MViSkfMJi1f9RnMLX"
+                                }
+                            }
+                        },
+                        "release_date": "2019-07-12"
+                    }
+                ]
+            },
+            "cost_time": 0.26600003242493,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:02",
+                "music": [
+                    {
+                        "label": "Einmusika Recordings",
+                        "play_offset_ms": 268180,
+                        "external_ids": {
+                            "isrc": "DEY471982063",
+                            "upc": "4251490761674"
+                        },
+                        "artists": [
+                            {
+                                "name": "Julian Wassermann;Artche"
+                            }
+                        ],
+                        "result_from": 1,
+                        "acrid": "7c14072c093b187507603a1d82b01f7a",
+                        "title": "Fades",
+                        "duration_ms": 419000,
+                        "album": {
+                            "name": "Muse"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Fades (Original Mix)",
+                                    "id": "732946892"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 71953352,
+                                        "name": "Julian Wassermann & Artche"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 107684862
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "name": "Fades",
+                                    "id": "2ysaVMZUNf5m8jtbZF8qHa"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Julian Wassermann",
+                                        "id": "6QXqARXg4hZ3oAUitm2gU0"
+                                    },
+                                    {
+                                        "name": "Artche",
+                                        "id": "75urDDpUkt0jMdQgVx3XFV"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Muse",
+                                    "id": "1n615rZW8opUmldNQdgfaq"
+                                }
+                            }
+                        },
+                        "release_date": "2019-10-04"
+                    }
+                ]
+            },
+            "cost_time": 0.48000001907349,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:02",
+                "music": [
+                    {
+                        "label": "Crossfrontier Audio",
+                        "play_offset_ms": 74000,
+                        "external_ids": {
+                            "isrc": "DEY471617348",
+                            "upc": "4251243872633"
+                        },
+                        "artists": [
+                            {
+                                "name": "Patrick Carrera"
+                            },
+                            {
+                                "name": "MUUI"
+                            }
+                        ],
+                        "result_from": 1,
+                        "acrid": "69599c3b27b139eff8969f020568a90e",
+                        "title": "Lore",
+                        "duration_ms": 468000,
+                        "album": {
+                            "name": "Kinas"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "139925079"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4380326"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "15054255"
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "id": "48OBsF3ajdalyAciqTNTPy"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4uprJRAH1f3978H1YMzqWY"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "7eC7lLWcJh7ArcUDuXUOuD"
+                                }
+                            }
+                        },
+                        "release_date": "2016"
+                    }
+                ]
+            },
+            "cost_time": 0.40500020980835,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:03",
+                "music": [
+                    {
+                        "label": "Caps Lock Recordings",
+                        "play_offset_ms": 197860,
+                        "external_ids": {
+                            "isrc": "NOCYD0700121",
+                            "upc": "4260166386127"
+                        },
+                        "artists": [
+                            {
+                                "name": "Bear Costume"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "efa8341ebf9c4b8628168ea2e780dff4",
+                        "title": "Pornstar",
+                        "duration_ms": 445000,
+                        "album": {
+                            "name": "Pornstar"
+                        },
+                        "score": 58,
+                        "external_metadata": {},
+                        "release_date": "2008"
+                    }
+                ]
+            },
+            "cost_time": 0.27400016784668,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:03",
+                "music": [
+                    {
+                        "label": "Diynamic Music",
+                        "play_offset_ms": 473120,
+                        "contributors": {
+                            "composers": [
+                                "Guy Mantzur"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "DEDH71600012",
+                            "upc": "4018939295622"
+                        },
+                        "artists": [
+                            {
+                                "name": "Guy Mantzur"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "22e0c55ac252f1c667ae1ad76db49683",
+                        "title": "Trees of Eden",
+                        "duration_ms": 556000,
+                        "album": {
+                            "name": "Four to the Floor 06"
+                        },
+                        "score": 100,
+                        "external_metadata": {},
+                        "release_date": "None"
+                    }
+                ]
+            },
+            "cost_time": 0.26900005340576,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:06",
+                "music": [
+                    {
+                        "label": "DFA Records",
+                        "play_offset_ms": 68440,
+                        "external_ids": {
+                            "isrc": "US4GE1800023",
+                            "upc": "829732261134"
+                        },
+                        "artists": [
+                            {
+                                "name": "Perel"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "ee22855b8f3db53c71599e625aa3022d",
+                        "title": "Alles",
+                        "duration_ms": 474420,
+                        "album": {
+                            "name": "Alles"
+                        },
+                        "score": 64,
+                        "external_metadata": {
+                            "spotify": {
+                                "track": {
+                                    "name": "Alles - Red Axes Remix",
+                                    "id": "2GAFWR8fws7eZm8iw9mOrY"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Perel",
+                                        "id": "5cmqnZNaNDqgcsTOkQUmqB"
+                                    },
+                                    {
+                                        "name": "Red Axes",
+                                        "id": "5Owm9QgL9BSCRQKTX6T08G"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Alles (Red Axes Remix)",
+                                    "id": "2eJXN7pZa0NDXP4UgYsPO1"
+                                }
+                            }
+                        },
+                        "release_date": "2018-06-12"
+                    },
+                    {
+                        "label": "PIAS Holland",
+                        "play_offset_ms": 9480,
+                        "contributors": {
+                            "composers": [
+                                "G.J.H. Mulder/D. Rink"
+                            ],
+                            "lyricists": [
+                                "G.J.H. Mulder/D. Rink"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "NLD320200062",
+                            "upc": "5413356184129"
+                        },
+                        "artists": [
+                            {
+                                "name": "Brainpower"
+                            }
+                        ],
+                        "title": "Dansplaat",
+                        "acrid": "613222f150645c914ec89da8dc0f495e",
+                        "result_from": 3,
+                        "duration_ms": 228040,
+                        "album": {
+                            "name": "Verschil Moet Er Zijn"
+                        },
+                        "score": 61,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Dansplaat",
+                                    "id": "3752872"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Brainpower",
+                                        "id": "242767"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Verschil Moet Er Zijn",
+                                    "id": "352484"
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "name": "Dansplaat",
+                                    "id": "5dX8kUF1ugdikFb8A6FnlQ"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Brainpower",
+                                        "id": "6LfIVTnSSc9zNqjpfVPs1w"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Verschil Moet Er Zijn",
+                                    "id": "37GnjH1ZVf52e4JXMsoPxT"
+                                }
+                            },
+                            "youtube": {
+                                "vid": "IFeQhLza9O8"
+                            }
+                        },
+                        "release_date": "2002-12-16"
+                    }
+                ]
+            },
+            "cost_time": 0.117999792099,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:06",
+                "music": [
+                    {
+                        "label": "Diynamic Music",
+                        "play_offset_ms": 115820,
+                        "contributors": {
+                            "composers": [
+                                "Guy Mantzur"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "DEDH71600012",
+                            "upc": "4018939295622"
+                        },
+                        "artists": [
+                            {
+                                "name": "Guy Mantzur"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "22e0c55ac252f1c667ae1ad76db49683",
+                        "title": "Trees of Eden",
+                        "duration_ms": 556000,
+                        "album": {
+                            "name": "Four to the Floor 06"
+                        },
+                        "score": 100,
+                        "external_metadata": {},
+                        "release_date": "None"
+                    }
+                ]
+            },
+            "cost_time": 0.19400000572205,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:07",
+                "music": [
+                    {
+                        "label": "Diynamic Music",
+                        "play_offset_ms": 294520,
+                        "contributors": {
+                            "composers": [
+                                "Guy Mantzur"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "DEDH71600012",
+                            "upc": "4018939295622"
+                        },
+                        "artists": [
+                            {
+                                "name": "Guy Mantzur"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "22e0c55ac252f1c667ae1ad76db49683",
+                        "title": "Trees of Eden",
+                        "duration_ms": 556000,
+                        "album": {
+                            "name": "Four to the Floor 06"
+                        },
+                        "score": 100,
+                        "external_metadata": {},
+                        "release_date": "None"
+                    }
+                ]
+            },
+            "cost_time": 0.20099997520447,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:08",
+                "music": [
+                    {
+                        "label": "Diynamic Music",
+                        "play_offset_ms": 141260,
+                        "contributors": {
+                            "composers": [
+                                "Benjamin Busse",
+                                "Jan Friso Traas"
+                            ],
+                            "lyricists": [
+                                "Fabio Giannelli",
+                                "Alessandro Gasperini"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "DEDH71900039",
+                            "upc": "0673790034922"
+                        },
+                        "artists": [
+                            {
+                                "name": "Adana Twins;Glowal"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "db7bd449bb9f467ba7fba0a6fd310d6a",
+                        "title": "My Computer",
+                        "duration_ms": 515000,
+                        "album": {
+                            "name": "Picture: Adana Twins"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "My Computer",
+                                    "id": "709327032"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 824351,
+                                        "name": "Adana Twins"
+                                    },
+                                    {
+                                        "id": 14250625,
+                                        "name": "Glowal"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 102968762
+                                }
+                            }
+                        },
+                        "release_date": "2019-08-16"
+                    }
+                ]
+            },
+            "cost_time": 0.097000122070312,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:09",
+                "music": [
+                    {
+                        "label": "Diynamic Music",
+                        "play_offset_ms": 324380,
+                        "contributors": {
+                            "composers": [
+                                "Benjamin Busse",
+                                "Jan Friso Traas"
+                            ],
+                            "lyricists": [
+                                "Fabio Giannelli",
+                                "Alessandro Gasperini"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "DEDH71900039",
+                            "upc": "0673790034922"
+                        },
+                        "artists": [
+                            {
+                                "name": "Adana Twins;Glowal"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "db7bd449bb9f467ba7fba0a6fd310d6a",
+                        "title": "My Computer",
+                        "duration_ms": 515000,
+                        "album": {
+                            "name": "Picture: Adana Twins"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "My Computer",
+                                    "id": "709327032"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 824351,
+                                        "name": "Adana Twins"
+                                    },
+                                    {
+                                        "id": 14250625,
+                                        "name": "Glowal"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 102968762
+                                }
+                            }
+                        },
+                        "release_date": "2019-08-16"
+                    }
+                ]
+            },
+            "cost_time": 0.096999883651733,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:09",
+                "music": [
+                    {
+                        "label": "Einmusika Recordings",
+                        "play_offset_ms": 208160,
+                        "external_ids": {
+                            "isrc": "DEY471982063",
+                            "upc": "4251490761674"
+                        },
+                        "artists": [
+                            {
+                                "name": "Julian Wassermann;Artche"
+                            }
+                        ],
+                        "result_from": 1,
+                        "acrid": "7c14072c093b187507603a1d82b01f7a",
+                        "title": "Fades",
+                        "duration_ms": 419000,
+                        "album": {
+                            "name": "Muse"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Fades (Original Mix)",
+                                    "id": "732946892"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 71953352,
+                                        "name": "Julian Wassermann & Artche"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 107684862
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "name": "Fades",
+                                    "id": "2ysaVMZUNf5m8jtbZF8qHa"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Julian Wassermann",
+                                        "id": "6QXqARXg4hZ3oAUitm2gU0"
+                                    },
+                                    {
+                                        "name": "Artche",
+                                        "id": "75urDDpUkt0jMdQgVx3XFV"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Muse",
+                                    "id": "1n615rZW8opUmldNQdgfaq"
+                                }
+                            }
+                        },
+                        "release_date": "2019-10-04"
+                    }
+                ]
+            },
+            "cost_time": 0.49600005149841,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:12",
+                "music": [
+                    {
+                        "label": "Diynamic Music",
+                        "play_offset_ms": 263260,
+                        "contributors": {
+                            "composers": [
+                                "Benjamin Busse",
+                                "Jan Friso Traas"
+                            ],
+                            "lyricists": [
+                                "Fabio Giannelli",
+                                "Alessandro Gasperini"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "DEDH71900039",
+                            "upc": "0673790034922"
+                        },
+                        "artists": [
+                            {
+                                "name": "Adana Twins;Glowal"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "db7bd449bb9f467ba7fba0a6fd310d6a",
+                        "title": "My Computer",
+                        "duration_ms": 515000,
+                        "album": {
+                            "name": "Picture: Adana Twins"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "My Computer",
+                                    "id": "709327032"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 824351,
+                                        "name": "Adana Twins"
+                                    },
+                                    {
+                                        "id": 14250625,
+                                        "name": "Glowal"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 102968762
+                                }
+                            }
+                        },
+                        "release_date": "2019-08-16"
+                    }
+                ]
+            },
+            "cost_time": 0.18099999427795,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:13",
+                "music": [
+                    {
+                        "label": "Tidal Discovery",
+                        "play_offset_ms": 440640,
+                        "duration_ms": 744000,
+                        "external_ids": {
+                            "upc": "7071245213893",
+                            "isrc": "NOAPI1591281"
+                        },
+                        "artists": [
+                            {
+                                "name": "Gunther Hasselmann"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "096e15f9822102f6518a3f370e534294",
+                        "title": "Overtures - Leonore Overture Op.72b in C Major",
+                        "genres": [
+                            {
+                                "name": "Classical"
+                            }
+                        ],
+                        "album": {
+                            "name": "Ludwig van Beethoven, Vol. 7 (Beethoven)"
+                        },
+                        "score": 67,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "104405898"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "7131431"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "10863972"
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "id": "6Q16o7sZLQyi5KrNoR6444"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "2wOqMjp9TyABvtHdOSOTUS"
+                                    },
+                                    {
+                                        "id": "1k9dSmikIfyap8eIW49qHi"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "4300lwEnhijKJboGCEuWFa"
+                                }
+                            }
+                        },
+                        "release_date": "2015-06-16"
+                    }
+                ]
+            },
+            "cost_time": 0.25200009346008,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:14",
+                "music": [
+                    {
+                        "label": "Diynamic Music",
+                        "play_offset_ms": 234980,
+                        "contributors": {
+                            "composers": [
+                                "Guy Mantzur"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "DEDH71600012",
+                            "upc": "4018939295622"
+                        },
+                        "artists": [
+                            {
+                                "name": "Guy Mantzur"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "22e0c55ac252f1c667ae1ad76db49683",
+                        "title": "Trees of Eden",
+                        "duration_ms": 556000,
+                        "album": {
+                            "name": "Four to the Floor 06"
+                        },
+                        "score": 100,
+                        "external_metadata": {},
+                        "release_date": "None"
+                    }
+                ]
+            },
+            "cost_time": 0.11199998855591,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:16",
+                "music": [
+                    {
+                        "label": "Columbia",
+                        "play_offset_ms": 7160,
+                        "contributors": {
+                            "composers": [
+                                "George Ezra"
+                            ],
+                            "lyricists": [
+                                "George Ezra"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "GBARL1400909",
+                            "upc": "886444713306"
+                        },
+                        "artists": [
+                            {
+                                "name": "George Ezra"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "54e6d27af39b29f077997e09511b7b6a",
+                        "title": "Budapest",
+                        "duration_ms": 271230,
+                        "album": {
+                            "name": "Budapest (Remixes) (Remixes)"
+                        },
+                        "score": 70,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Budapest",
+                                    "id": "80353922"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "George Ezra",
+                                        "id": "5241932"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Budapest (Remixes) (Remixes)",
+                                    "id": "8023900"
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "name": "Budapest - Achtabahn Remix",
+                                    "id": "31803ru3srrB7lEr3DWdBd"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "George Ezra",
+                                        "id": "2ysnwxxNtSgbb9t1m2Ur4j"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Budapest (Remixes)",
+                                    "id": "3ykCYbCEVXcsCWdMAArknJ"
+                                }
+                            },
+                            "youtube": {
+                                "vid": "VHrLPs3_1Fs"
+                            }
+                        },
+                        "release_date": "2014-07-11"
+                    }
+                ]
+            },
+            "cost_time": 0.089999914169312,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:17",
+                "music": [
+                    {
+                        "label": "Mango Alley",
+                        "play_offset_ms": 261320,
+                        "external_ids": {
+                            "isrc": "US83Z1903329",
+                            "upc": "853565679125"
+                        },
+                        "artists": [
+                            {
+                                "name": "TH;EN"
+                            },
+                            {
+                                "name": "blaktone"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "b7904a60ec61aa25503cb082797a9783",
+                        "title": "Shira - blaktone Remix",
+                        "duration_ms": 424918,
+                        "album": {
+                            "name": "Shira"
+                        },
+                        "score": 67,
+                        "external_metadata": {
+                            "spotify": {
+                                "track": {
+                                    "name": "Shira - blaktone Remix",
+                                    "id": "29eaTcxeWf7FlL9TtnhxIC"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "TH;EN",
+                                        "id": "6UbcuFp6HP6InTAbPASxff"
+                                    },
+                                    {
+                                        "name": "blaktone",
+                                        "id": "1FWBtIItLjiJJwzsZzf9vw"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Shira",
+                                    "id": "7eHOuhrrzq3OGghpxwcLCK"
+                                }
+                            }
+                        },
+                        "release_date": "2019-03-11"
+                    },
+                    {
+                        "label": "Sevenn",
+                        "play_offset_ms": 48660,
+                        "external_ids": {
+                            "isrc": "TCACN1616120",
+                            "upc": "859716934402"
+                        },
+                        "artists": [
+                            {
+                                "name": "Sevenn"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "8806d3307221ef5bd6cf656cd2642b8e",
+                        "title": "Colors of the Rainbow (feat. Kathy)",
+                        "duration_ms": 372000,
+                        "album": {
+                            "name": "Colors of the Rainbow (feat. Kathy)"
+                        },
+                        "score": 61,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Colors of the Rainbow (feat. Kathy)",
+                                    "id": "121713246"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Sevenn",
+                                        "id": "9851680"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Colors of the Rainbow (feat. Kathy)",
+                                    "id": "12721826"
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "name": "Colors of the Rainbow (feat. Kathy)",
+                                    "id": "72tIiVUPfRbvorseX8GzHt"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Sevenn",
+                                        "id": "7bNqXqIrIfwJnipx7oGeU4"
+                                    },
+                                    {
+                                        "name": "Kathy",
+                                        "id": "4nMDQek5NgAd5V9EkLWqzz"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Colors of the Rainbow (feat. Kathy)",
+                                    "id": "6xWmMBsEIx055DOUVgxieM"
+                                }
+                            },
+                            "youtube": {
+                                "vid": "vtz9HLHihCE"
+                            }
+                        },
+                        "release_date": "2016-03-22"
+                    }
+                ]
+            },
+            "cost_time": 0.46000003814697,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:17",
+                "music": [
+                    {
+                        "label": "DDS",
+                        "play_offset_ms": 7780,
+                        "external_ids": {
+                            "isrc": "USA2Z1811509",
+                            "upc": "5060165484492"
+                        },
+                        "artists": [
+                            {
+                                "name": "Shinichi Atobe"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "bcf67c7014888e3642e459da2dfbb52a",
+                        "title": "Heat 1",
+                        "duration_ms": 592880,
+                        "album": {
+                            "name": "Heat"
+                        },
+                        "score": 61,
+                        "external_metadata": {
+                            "spotify": {
+                                "track": {
+                                    "name": "Heat 1",
+                                    "id": "7KtbZxJU9ZdIyJJ4QMzx66"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Shinichi Atobe",
+                                        "id": "2n1YSv6tFmLxYalICWxOGv"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Heat",
+                                    "id": "7iosbFw7dkvyV4PjaZWQIw"
+                                }
+                            }
+                        },
+                        "release_date": "2018-09-14"
+                    },
+                    {
+                        "label": "DFA Records",
+                        "play_offset_ms": 65520,
+                        "external_ids": {
+                            "isrc": "US4GE1800023",
+                            "upc": "829732261134"
+                        },
+                        "artists": [
+                            {
+                                "name": "Perel"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "ee22855b8f3db53c71599e625aa3022d",
+                        "title": "Alles",
+                        "duration_ms": 474420,
+                        "album": {
+                            "name": "Alles"
+                        },
+                        "score": 58,
+                        "external_metadata": {
+                            "spotify": {
+                                "track": {
+                                    "name": "Alles - Red Axes Remix",
+                                    "id": "2GAFWR8fws7eZm8iw9mOrY"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Perel",
+                                        "id": "5cmqnZNaNDqgcsTOkQUmqB"
+                                    },
+                                    {
+                                        "name": "Red Axes",
+                                        "id": "5Owm9QgL9BSCRQKTX6T08G"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Alles (Red Axes Remix)",
+                                    "id": "2eJXN7pZa0NDXP4UgYsPO1"
+                                }
+                            }
+                        },
+                        "release_date": "2018-06-12"
+                    }
+                ]
+            },
+            "cost_time": 0.078999996185303,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:18",
+                "music": [
+                    {
+                        "label": "Crossfrontier Audio",
+                        "play_offset_ms": 373700,
+                        "external_ids": {
+                            "isrc": "DEY471617348",
+                            "upc": "4251243872633"
+                        },
+                        "artists": [
+                            {
+                                "name": "Patrick Carrera"
+                            },
+                            {
+                                "name": "MUUI"
+                            }
+                        ],
+                        "result_from": 1,
+                        "acrid": "69599c3b27b139eff8969f020568a90e",
+                        "title": "Lore",
+                        "duration_ms": 468000,
+                        "album": {
+                            "name": "Kinas"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "139925079"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4380326"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "15054255"
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "id": "48OBsF3ajdalyAciqTNTPy"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4uprJRAH1f3978H1YMzqWY"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "7eC7lLWcJh7ArcUDuXUOuD"
+                                }
+                            }
+                        },
+                        "release_date": "2016"
+                    }
+                ]
+            },
+            "cost_time": 0.39499998092651,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:20",
+                "music": [
+                    {
+                        "label": "Diynamic Music",
+                        "play_offset_ms": 175420,
+                        "contributors": {
+                            "composers": [
+                                "Guy Mantzur"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "DEDH71600012",
+                            "upc": "4018939295622"
+                        },
+                        "artists": [
+                            {
+                                "name": "Guy Mantzur"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "22e0c55ac252f1c667ae1ad76db49683",
+                        "title": "Trees of Eden",
+                        "duration_ms": 556000,
+                        "album": {
+                            "name": "Four to the Floor 06"
+                        },
+                        "score": 100,
+                        "external_metadata": {},
+                        "release_date": "None"
+                    }
+                ]
+            },
+            "cost_time": 0.10400009155273,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:21",
+                "music": [
+                    {
+                        "label": "Einmusika Recordings",
+                        "play_offset_ms": 148080,
+                        "external_ids": {
+                            "isrc": "DEY471982063",
+                            "upc": "4251490761674"
+                        },
+                        "artists": [
+                            {
+                                "name": "Julian Wassermann;Artche"
+                            }
+                        ],
+                        "result_from": 1,
+                        "acrid": "7c14072c093b187507603a1d82b01f7a",
+                        "title": "Fades",
+                        "duration_ms": 419000,
+                        "album": {
+                            "name": "Muse"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Fades (Original Mix)",
+                                    "id": "732946892"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 71953352,
+                                        "name": "Julian Wassermann & Artche"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 107684862
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "name": "Fades",
+                                    "id": "2ysaVMZUNf5m8jtbZF8qHa"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Julian Wassermann",
+                                        "id": "6QXqARXg4hZ3oAUitm2gU0"
+                                    },
+                                    {
+                                        "name": "Artche",
+                                        "id": "75urDDpUkt0jMdQgVx3XFV"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Muse",
+                                    "id": "1n615rZW8opUmldNQdgfaq"
+                                }
+                            }
+                        },
+                        "release_date": "2019-10-04"
+                    }
+                ]
+            },
+            "cost_time": 0.3050000667572,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:24",
+                "music": [
+                    {
+                        "label": "Crossfrontier Audio",
+                        "play_offset_ms": 133660,
+                        "external_ids": {
+                            "isrc": "DEY471617348",
+                            "upc": "4251243872633"
+                        },
+                        "artists": [
+                            {
+                                "name": "Patrick Carrera"
+                            },
+                            {
+                                "name": "MUUI"
+                            }
+                        ],
+                        "result_from": 1,
+                        "acrid": "69599c3b27b139eff8969f020568a90e",
+                        "title": "Lore",
+                        "duration_ms": 468000,
+                        "album": {
+                            "name": "Kinas"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "139925079"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4380326"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "15054255"
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "id": "48OBsF3ajdalyAciqTNTPy"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4uprJRAH1f3978H1YMzqWY"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "7eC7lLWcJh7ArcUDuXUOuD"
+                                }
+                            }
+                        },
+                        "release_date": "2016"
+                    }
+                ]
+            },
+            "cost_time": 0.48900008201599,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:24",
+                "music": [
+                    {
+                        "label": "BMG Rights Management GmbH",
+                        "play_offset_ms": 120040,
+                        "external_ids": {
+                            "isrc": "DELV41900533",
+                            "upc": "4050538551044"
+                        },
+                        "artists": [
+                            {
+                                "name": "Fritz Kalkbrenner"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "d4e7f4c5083be213d5ec29f1e0625c94",
+                        "title": "Kings & Queens (Julian Wassermann Remix)",
+                        "duration_ms": 251320,
+                        "album": {
+                            "name": "Kings & Queens"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "spotify": {
+                                "track": {
+                                    "name": "Kings & Queens (Julian Wassermann Remix) - Edit",
+                                    "id": "1A8YOVHy05h104I8buMN68"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Fritz Kalkbrenner",
+                                        "id": "08Ut1tYxtmgIInVyQqohkM"
+                                    },
+                                    {
+                                        "name": "Julian Wassermann",
+                                        "id": "6QXqARXg4hZ3oAUitm2gU0"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Kings & Queens (Julian Wassermann Remix)",
+                                    "id": "5AALYU8AqmJYZdB9Z75Ebb"
+                                }
+                            }
+                        },
+                        "release_date": "2019-10-18"
+                    }
+                ]
+            },
+            "cost_time": 0.08299994468689,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:26",
+                "music": [
+                    {
+                        "label": "TAU",
+                        "play_offset_ms": 139560,
+                        "external_ids": {
+                            "isrc": "DEY471881081",
+                            "upc": "4251243813261"
+                        },
+                        "artists": [
+                            {
+                                "name": "BOg"
+                            }
+                        ],
+                        "result_from": 1,
+                        "acrid": "9e7c74a62f74ce0bbc6466db21bdcde6",
+                        "title": "Terra",
+                        "duration_ms": 508260,
+                        "album": {
+                            "name": "Terra EP"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "spotify": {
+                                "track": {
+                                    "name": "Terra",
+                                    "id": "0EwojJ0oDyf5pD9LZIDdfK"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Bog",
+                                        "id": "7FldCwBXVtA0TFbqxvaKZY"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Terra EP",
+                                    "id": "2WvQzd2fWECb253vyQWQed"
+                                }
+                            }
+                        },
+                        "release_date": "2018-11-02"
+                    }
+                ]
+            },
+            "cost_time": 0.50200009346008,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:27",
+                "music": [
+                    {
+                        "label": "Crossfrontier Audio",
+                        "play_offset_ms": 193740,
+                        "external_ids": {
+                            "isrc": "DEY471617348",
+                            "upc": "4251243872633"
+                        },
+                        "artists": [
+                            {
+                                "name": "Patrick Carrera"
+                            },
+                            {
+                                "name": "MUUI"
+                            }
+                        ],
+                        "result_from": 1,
+                        "acrid": "69599c3b27b139eff8969f020568a90e",
+                        "title": "Lore",
+                        "duration_ms": 468000,
+                        "album": {
+                            "name": "Kinas"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "139925079"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4380326"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "15054255"
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "id": "48OBsF3ajdalyAciqTNTPy"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4uprJRAH1f3978H1YMzqWY"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "7eC7lLWcJh7ArcUDuXUOuD"
+                                }
+                            }
+                        },
+                        "release_date": "2016"
+                    }
+                ]
+            },
+            "cost_time": 0.46199989318848,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:29",
+                "music": [
+                    {
+                        "label": "BMG Rights Management GmbH",
+                        "play_offset_ms": 69400,
+                        "external_ids": {
+                            "isrc": "DELV41900533",
+                            "upc": "4050538551044"
+                        },
+                        "artists": [
+                            {
+                                "name": "Fritz Kalkbrenner"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "d4e7f4c5083be213d5ec29f1e0625c94",
+                        "title": "Kings & Queens (Julian Wassermann Remix)",
+                        "duration_ms": 251320,
+                        "album": {
+                            "name": "Kings & Queens"
+                        },
+                        "score": 85,
+                        "external_metadata": {
+                            "spotify": {
+                                "track": {
+                                    "name": "Kings & Queens (Julian Wassermann Remix) - Edit",
+                                    "id": "1A8YOVHy05h104I8buMN68"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Fritz Kalkbrenner",
+                                        "id": "08Ut1tYxtmgIInVyQqohkM"
+                                    },
+                                    {
+                                        "name": "Julian Wassermann",
+                                        "id": "6QXqARXg4hZ3oAUitm2gU0"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Kings & Queens (Julian Wassermann Remix)",
+                                    "id": "5AALYU8AqmJYZdB9Z75Ebb"
+                                }
+                            }
+                        },
+                        "release_date": "2019-10-18"
+                    }
+                ]
+            },
+            "cost_time": 0.078999996185303,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:30",
+                "music": [
+                    {
+                        "label": "BMG Rights Management GmbH",
+                        "play_offset_ms": 166360,
+                        "external_ids": {
+                            "isrc": "DELV41900533",
+                            "upc": "4050538551044"
+                        },
+                        "artists": [
+                            {
+                                "name": "Fritz Kalkbrenner"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "d4e7f4c5083be213d5ec29f1e0625c94",
+                        "title": "Kings & Queens (Julian Wassermann Remix)",
+                        "duration_ms": 251320,
+                        "album": {
+                            "name": "Kings & Queens"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "spotify": {
+                                "track": {
+                                    "name": "Kings & Queens (Julian Wassermann Remix) - Edit",
+                                    "id": "1A8YOVHy05h104I8buMN68"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Fritz Kalkbrenner",
+                                        "id": "08Ut1tYxtmgIInVyQqohkM"
+                                    },
+                                    {
+                                        "name": "Julian Wassermann",
+                                        "id": "6QXqARXg4hZ3oAUitm2gU0"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Kings & Queens (Julian Wassermann Remix)",
+                                    "id": "5AALYU8AqmJYZdB9Z75Ebb"
+                                }
+                            }
+                        },
+                        "release_date": "2019-10-18"
+                    },
+                    {
+                        "label": "Nasua Music",
+                        "play_offset_ms": 151340,
+                        "external_ids": {
+                            "isrc": "DELV41900572",
+                            "upc": "4050538555158"
+                        },
+                        "artists": [
+                            {
+                                "name": "Fritz Kalkbrenner",
+                                "id": "354816"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "89fab30fe5e90504226c8d7b919f34bc",
+                        "title": "Kings & Queens (Stil & Bense Remix)",
+                        "duration_ms": 408260,
+                        "album": {
+                            "name": "Kings & Queens (Stil & Bense Remix)",
+                            "id": "1009031850"
+                        },
+                        "score": 97,
+                        "external_metadata": {
+                            "spotify": {
+                                "track": {
+                                    "name": "Kings & Queens - Stil & Bense Remix",
+                                    "id": "084mCsutXqnh29FpRXUo28"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Fritz Kalkbrenner",
+                                        "id": "08Ut1tYxtmgIInVyQqohkM"
+                                    },
+                                    {
+                                        "name": "Stil & Bense",
+                                        "id": "5nuJOwgBqKBIWyCr0dQgEH"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Kings & Queens (Stil & Bense Remix)",
+                                    "id": "6naN1iOjKKfMiCUqUqZHRc"
+                                }
+                            }
+                        },
+                        "release_date": "2019-11-01"
+                    },
+                    {
+                        "play_offset_ms": 89060,
+                        "artists": [
+                            {
+                                "name": "Fritz Kalkbrenner"
+                            }
+                        ],
+                        "lyrics": {
+                            "copyrights": [
+                                "BMG Rights Management",
+                                "Budde Music Publishing GmbH"
+                            ]
+                        },
+                        "acrid": "696b3542628aae83b2be06b492764f85",
+                        "album": {
+                            "name": "Kings & Queens"
+                        },
+                        "label": "BMG Rights Management GmbH",
+                        "external_ids": {
+                            "isrc": "DELV41900574",
+                            "upc": "4050538555172"
+                        },
+                        "result_from": 3,
+                        "contributors": {
+                            "composers": [
+                                "Anne Kalstrup",
+                                "Conrad Hensel",
+                                "Fritz Kalkbrenner",
+                                "Hendrik Burkhard"
+                            ],
+                            "lyricists": [
+                                "Fritz Kalkbrenner"
+                            ]
+                        },
+                        "title": "Kings & Queens",
+                        "duration_ms": 223000,
+                        "score": 70,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Kings & Queens",
+                                    "id": "770770152"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 384131,
+                                        "name": "Fritz Kalkbrenner"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 114079712
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "name": "Kings & Queens",
+                                    "id": "58mXsM17uPX80ZanltayhQ"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Fritz Kalkbrenner",
+                                        "id": "08Ut1tYxtmgIInVyQqohkM"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Kings & Queens",
+                                    "id": "1cHMV0XeizYKKdJB72BaWn"
+                                }
+                            }
+                        },
+                        "release_date": "2019-10-11"
+                    }
+                ]
+            },
+            "cost_time": 0.077999830245972,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:32",
+                "music": [
+                    {
+                        "play_offset_ms": 275420,
+                        "artists": [
+                            {
+                                "name": "Jan Blomqvist"
+                            }
+                        ],
+                        "acrid": "ed3afce33ecf74a8b1580da1f0c95c02",
+                        "genres": [
+                            {
+                                "name": "Electro|Dance|Disco"
+                            }
+                        ],
+                        "album": {
+                            "name": "The Space In Between (Ben B\u00f6hmer Remix)"
+                        },
+                        "label": "Kontor Records",
+                        "external_ids": {
+                            "isrc": "NLF711806854",
+                            "upc": "8718522208997"
+                        },
+                        "result_from": 3,
+                        "contributors": {
+                            "composers": [
+                                "Jan Freter",
+                                "Felix Lehmann",
+                                "Ryan Mathiesen"
+                            ],
+                            "lyricists": [
+                                "Jan Freter",
+                                "Felix Lehmann",
+                                "Ryan Mathiesen"
+                            ]
+                        },
+                        "title": "The Space In Between (Ben B\u00f6hmer Extended Remix)",
+                        "duration_ms": 475960,
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "510562582"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Jan Blomqvist",
+                                        "id": "1656026"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "65399662"
+                                }
+                            }
+                        },
+                        "release_date": "2018-06-29"
+                    }
+                ]
+            },
+            "cost_time": 0.13100004196167,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:33",
+                "music": [
+                    {
+                        "label": "Rekids",
+                        "play_offset_ms": 173340,
+                        "contributors": {
+                            "composers": [
+                                "Laurent Garnier & Chambray"
+                            ],
+                            "lyricists": [
+                                "Laurent Garnier & Chambray"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "GBLTF1900068",
+                            "upc": "5060670886576"
+                        },
+                        "artists": [
+                            {
+                                "name": "Laurent Garnier & Chambray"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "f5b7a9c6a8b2e25a4015c4f332aa87a1",
+                        "title": "Feelin' Good (Radio Slave Revenge Remix)",
+                        "duration_ms": 449320,
+                        "album": {
+                            "name": "Feelin' Good"
+                        },
+                        "score": 79,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Feelin' Good (Radio Slave Revenge Remix)",
+                                    "id": "698872902"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 5469,
+                                        "name": "Laurent Garnier"
+                                    },
+                                    {
+                                        "id": 5497710,
+                                        "name": "Chambray"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 100847582
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "name": "Feelin' Good - Radio Slave Revenge Remix",
+                                    "id": "0LNjQJFTmm1c2tGKET5DGQ"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Laurent Garnier",
+                                        "id": "3y1SoTOdrmRNTBVph5T0VZ"
+                                    },
+                                    {
+                                        "name": "Chambray",
+                                        "id": "4FUZzDnu4gBue46G99hesO"
+                                    },
+                                    {
+                                        "name": "Radio Slave",
+                                        "id": "4rzWjR3L3M54c6I25NzdM3"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Feelin' Good",
+                                    "id": "3AQS7MViSkfMJi1f9RnMLX"
+                                }
+                            }
+                        },
+                        "release_date": "2019-07-12"
+                    }
+                ]
+            },
+            "cost_time": 0.4210000038147,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:35",
+                "music": [
+                    {
+                        "play_offset_ms": 335600,
+                        "artists": [
+                            {
+                                "name": "Jan Blomqvist"
+                            }
+                        ],
+                        "acrid": "ed3afce33ecf74a8b1580da1f0c95c02",
+                        "genres": [
+                            {
+                                "name": "Electro|Dance|Disco"
+                            }
+                        ],
+                        "album": {
+                            "name": "The Space In Between (Ben B\u00f6hmer Remix)"
+                        },
+                        "label": "Kontor Records",
+                        "external_ids": {
+                            "isrc": "NLF711806854",
+                            "upc": "8718522208997"
+                        },
+                        "result_from": 3,
+                        "contributors": {
+                            "composers": [
+                                "Jan Freter",
+                                "Felix Lehmann",
+                                "Ryan Mathiesen"
+                            ],
+                            "lyricists": [
+                                "Jan Freter",
+                                "Felix Lehmann",
+                                "Ryan Mathiesen"
+                            ]
+                        },
+                        "title": "The Space In Between (Ben B\u00f6hmer Extended Remix)",
+                        "duration_ms": 475960,
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "510562582"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Jan Blomqvist",
+                                        "id": "1656026"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "65399662"
+                                }
+                            }
+                        },
+                        "release_date": "2018-06-29"
+                    }
+                ]
+            },
+            "cost_time": 0.097000122070312,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:35",
+                "music": [
+                    {
+                        "label": "Studio Barnhus",
+                        "play_offset_ms": 11160,
+                        "genres": [
+                            {
+                                "name": "Electronica"
+                            }
+                        ],
+                        "external_ids": {
+                            "isrc": "SE2WJ1906005",
+                            "upc": "4251648404514"
+                        },
+                        "artists": [
+                            {
+                                "name": "Korn\u00e9l Kov\u00e1cs"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "51920a8da584f1f9005d0685595290f7",
+                        "title": "Rocks",
+                        "duration_ms": 332740,
+                        "album": {
+                            "name": "Rocks"
+                        },
+                        "score": 82,
+                        "external_metadata": {
+                            "spotify": {
+                                "track": {
+                                    "name": "Rocks",
+                                    "id": "1B3qO4UJwUpcKVoixbCiPM"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Korn\u00e9l Kov\u00e1cs",
+                                        "id": "0Ij7th9uWcDVYNAIOn5W22"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Stockholm Marathon",
+                                    "id": "1y8E97vb4VzPzXZnsFO5Jy"
+                                }
+                            }
+                        },
+                        "release_date": "2019-03-06"
+                    },
+                    {
+                        "play_offset_ms": 13220,
+                        "artists": [
+                            {
+                                "name": "Kathy Brown"
+                            }
+                        ],
+                        "acrid": "4e5f88e1b3f0d744aac4d8da970b2e0c",
+                        "genres": [
+                            {
+                                "name": "Dance - House"
+                            }
+                        ],
+                        "album": {
+                            "name": "Life's Journey"
+                        },
+                        "label": "KB Sounds",
+                        "external_ids": {
+                            "isrc": "UKACT1930157",
+                            "upc": "3615936974652"
+                        },
+                        "result_from": 3,
+                        "contributors": {
+                            "composers": [
+                                "Kathy Brown"
+                            ],
+                            "lyricists": [
+                                "Kathy Brown"
+                            ]
+                        },
+                        "title": "Get It Right",
+                        "duration_ms": 301680,
+                        "score": 76,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Get It Right (DnA Studios Mix)",
+                                    "id": "628550492"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 11435,
+                                        "name": "Kathy Brown"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 86504842
+                                }
+                            }
+                        },
+                        "release_date": "2019-03-01"
+                    },
+                    {
+                        "label": "Vega Records",
+                        "play_offset_ms": 11400,
+                        "duration_ms": 559013,
+                        "external_ids": {
+                            "isrc": "US4DK0400207",
+                            "upc": "659240904311"
+                        },
+                        "artists": [
+                            {
+                                "name": "Victor Davies"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "52ef1ab8fce6accbe6bb5aa5b9f57633",
+                        "title": "Hear The Sound",
+                        "genres": [
+                            {
+                                "name": "Electro"
+                            },
+                            {
+                                "name": "Techno/House"
+                            }
+                        ],
+                        "album": {
+                            "name": "Hear The Sound - Single"
+                        },
+                        "score": 76,
+                        "external_metadata": {
+                            "youtube": {
+                                "vid": "zg9sltN7hkk"
+                            },
+                            "spotify": {
+                                "track": {
+                                    "id": "7nKMQkApIUNdNpep5t3wo2"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "56C8IMUO9RKB5uFPWDU11D"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "5jVVtDwSD53Cm1tZoPvxNL"
+                                }
+                            },
+                            "deezer": {
+                                "track": {
+                                    "id": "11100443"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 10004
+                                    }
+                                ],
+                                "album": {
+                                    "id": 1015398
+                                }
+                            }
+                        },
+                        "release_date": "2007-07-05"
+                    }
+                ]
+            },
+            "cost_time": 0.10500001907349,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:39",
+                "music": [
+                    {
+                        "label": "Crossfrontier Audio",
+                        "play_offset_ms": 253980,
+                        "external_ids": {
+                            "isrc": "DEY471617348",
+                            "upc": "4251243872633"
+                        },
+                        "artists": [
+                            {
+                                "name": "Patrick Carrera"
+                            },
+                            {
+                                "name": "MUUI"
+                            }
+                        ],
+                        "result_from": 1,
+                        "acrid": "69599c3b27b139eff8969f020568a90e",
+                        "title": "Lore",
+                        "duration_ms": 468000,
+                        "album": {
+                            "name": "Kinas"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "139925079"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4380326"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "15054255"
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "id": "48OBsF3ajdalyAciqTNTPy"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4uprJRAH1f3978H1YMzqWY"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "7eC7lLWcJh7ArcUDuXUOuD"
+                                }
+                            }
+                        },
+                        "release_date": "2016"
+                    }
+                ]
+            },
+            "cost_time": 0.59100008010864,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:40",
+                "music": [
+                    {
+                        "label": "Diynamic Music",
+                        "play_offset_ms": 202500,
+                        "contributors": {
+                            "composers": [
+                                "Benjamin Busse",
+                                "Jan Friso Traas"
+                            ],
+                            "lyricists": [
+                                "Fabio Giannelli",
+                                "Alessandro Gasperini"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "DEDH71900039",
+                            "upc": "0673790034922"
+                        },
+                        "artists": [
+                            {
+                                "name": "Adana Twins;Glowal"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "db7bd449bb9f467ba7fba0a6fd310d6a",
+                        "title": "My Computer",
+                        "duration_ms": 515000,
+                        "album": {
+                            "name": "Picture: Adana Twins"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "My Computer",
+                                    "id": "709327032"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 824351,
+                                        "name": "Adana Twins"
+                                    },
+                                    {
+                                        "id": 14250625,
+                                        "name": "Glowal"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 102968762
+                                }
+                            }
+                        },
+                        "release_date": "2019-08-16"
+                    }
+                ]
+            },
+            "cost_time": 0.22499990463257,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:41",
+                "music": [
+                    {
+                        "play_offset_ms": 155680,
+                        "artists": [
+                            {
+                                "name": "Jan Blomqvist"
+                            }
+                        ],
+                        "acrid": "ed3afce33ecf74a8b1580da1f0c95c02",
+                        "genres": [
+                            {
+                                "name": "Electro|Dance|Disco"
+                            }
+                        ],
+                        "album": {
+                            "name": "The Space In Between (Ben B\u00f6hmer Remix)"
+                        },
+                        "label": "Kontor Records",
+                        "external_ids": {
+                            "isrc": "NLF711806854",
+                            "upc": "8718522208997"
+                        },
+                        "result_from": 3,
+                        "contributors": {
+                            "composers": [
+                                "Jan Freter",
+                                "Felix Lehmann",
+                                "Ryan Mathiesen"
+                            ],
+                            "lyricists": [
+                                "Jan Freter",
+                                "Felix Lehmann",
+                                "Ryan Mathiesen"
+                            ]
+                        },
+                        "title": "The Space In Between (Ben B\u00f6hmer Extended Remix)",
+                        "duration_ms": 475960,
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "510562582"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Jan Blomqvist",
+                                        "id": "1656026"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "65399662"
+                                }
+                            }
+                        },
+                        "release_date": "2018-06-29"
+                    }
+                ]
+            },
+            "cost_time": 0.11199998855591,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:42",
+                "music": [
+                    {
+                        "label": "BMG Rights Management GmbH",
+                        "play_offset_ms": 108420,
+                        "external_ids": {
+                            "isrc": "DELV41900533",
+                            "upc": "4050538551044"
+                        },
+                        "artists": [
+                            {
+                                "name": "Fritz Kalkbrenner"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "d4e7f4c5083be213d5ec29f1e0625c94",
+                        "title": "Kings & Queens (Julian Wassermann Remix)",
+                        "duration_ms": 251320,
+                        "album": {
+                            "name": "Kings & Queens"
+                        },
+                        "score": 79,
+                        "external_metadata": {
+                            "spotify": {
+                                "track": {
+                                    "name": "Kings & Queens (Julian Wassermann Remix) - Edit",
+                                    "id": "1A8YOVHy05h104I8buMN68"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Fritz Kalkbrenner",
+                                        "id": "08Ut1tYxtmgIInVyQqohkM"
+                                    },
+                                    {
+                                        "name": "Julian Wassermann",
+                                        "id": "6QXqARXg4hZ3oAUitm2gU0"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Kings & Queens (Julian Wassermann Remix)",
+                                    "id": "5AALYU8AqmJYZdB9Z75Ebb"
+                                }
+                            }
+                        },
+                        "release_date": "2019-10-18"
+                    }
+                ]
+            },
+            "cost_time": 0.087999820709229,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:47",
+                "music": [
+                    {
+                        "play_offset_ms": 73480,
+                        "artists": [
+                            {
+                                "name": "Tube & Berger feat. Ghost Loft"
+                            }
+                        ],
+                        "acrid": "b6913b92eee6f41454c7ae7a83518144",
+                        "genres": [
+                            {
+                                "name": "Dance - House - Deep"
+                            }
+                        ],
+                        "album": {
+                            "name": "Set Free (Original Mix)"
+                        },
+                        "label": "Kittball Records",
+                        "external_ids": {
+                            "isrc": "DECL81600247",
+                            "upc": "4260134265812"
+                        },
+                        "result_from": 3,
+                        "contributors": {
+                            "composers": [
+                                "Arndt Roerig",
+                                "Marko Vidovic"
+                            ],
+                            "lyricists": [
+                                "Arndt Roerig",
+                                "Marko Vidovic",
+                                "Lewis Hughes",
+                                "Nicholas Audino"
+                            ]
+                        },
+                        "title": "Set Free (Original Mix)",
+                        "duration_ms": 413080,
+                        "score": 76,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Set Free (Original Mix)",
+                                    "id": "812187852"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 275306,
+                                        "name": "Tube & Berger"
+                                    },
+                                    {
+                                        "id": 4440828,
+                                        "name": "Ghost Loft"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 119681102
+                                }
+                            }
+                        },
+                        "release_date": "2016-03-22"
+                    }
+                ]
+            },
+            "cost_time": 0.042999982833862,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:49",
+                "music": [
+                    {
+                        "label": "Einmusika Recordings",
+                        "play_offset_ms": 387980,
+                        "external_ids": {
+                            "isrc": "DEY471982063",
+                            "upc": "4251490761674"
+                        },
+                        "artists": [
+                            {
+                                "name": "Julian Wassermann;Artche"
+                            }
+                        ],
+                        "result_from": 1,
+                        "acrid": "7c14072c093b187507603a1d82b01f7a",
+                        "title": "Fades",
+                        "duration_ms": 419000,
+                        "album": {
+                            "name": "Muse"
+                        },
+                        "score": 100,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "name": "Fades (Original Mix)",
+                                    "id": "732946892"
+                                },
+                                "artists": [
+                                    {
+                                        "id": 71953352,
+                                        "name": "Julian Wassermann & Artche"
+                                    }
+                                ],
+                                "album": {
+                                    "id": 107684862
+                                }
+                            },
+                            "spotify": {
+                                "track": {
+                                    "name": "Fades",
+                                    "id": "2ysaVMZUNf5m8jtbZF8qHa"
+                                },
+                                "artists": [
+                                    {
+                                        "name": "Julian Wassermann",
+                                        "id": "6QXqARXg4hZ3oAUitm2gU0"
+                                    },
+                                    {
+                                        "name": "Artche",
+                                        "id": "75urDDpUkt0jMdQgVx3XFV"
+                                    }
+                                ],
+                                "album": {
+                                    "name": "Muse",
+                                    "id": "1n615rZW8opUmldNQdgfaq"
+                                }
+                            }
+                        },
+                        "release_date": "2019-10-04"
+                    }
+                ]
+            },
+            "cost_time": 0.34999990463257,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:50",
+                "music": [
+                    {
+                        "label": "Diynamic Music",
+                        "play_offset_ms": 413500,
+                        "contributors": {
+                            "composers": [
+                                "Guy Mantzur"
+                            ]
+                        },
+                        "external_ids": {
+                            "isrc": "DEDH71600012",
+                            "upc": "4018939295622"
+                        },
+                        "artists": [
+                            {
+                                "name": "Guy Mantzur"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "22e0c55ac252f1c667ae1ad76db49683",
+                        "title": "Trees of Eden",
+                        "duration_ms": 556000,
+                        "album": {
+                            "name": "Four to the Floor 06"
+                        },
+                        "score": 100,
+                        "external_metadata": {},
+                        "release_date": "None"
+                    }
+                ]
+            },
+            "cost_time": 0.11100006103516,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        },
+        {
+            "metadata": {
+                "timestamp_utc": "2020-01-06 08:55:50",
+                "music": [
+                    {
+                        "label": "Sirup/Vidisco",
+                        "play_offset_ms": 197900,
+                        "duration_ms": 312740,
+                        "external_ids": {
+                            "isrc": "CH3131713564",
+                            "upc": "7640130692848"
+                        },
+                        "artists": [
+                            {
+                                "name": "Chemical Surf & Vintage Culture"
+                            }
+                        ],
+                        "result_from": 3,
+                        "acrid": "98e63a49eef668e0f4913714e81ae6a6",
+                        "title": "Feeling Good (Croatia Squad Remix)",
+                        "genres": [
+                            {
+                                "name": "Electro"
+                            },
+                            {
+                                "name": "Techno/House"
+                            }
+                        ],
+                        "album": {
+                            "name": "Feeling Good"
+                        },
+                        "score": 70,
+                        "external_metadata": {
+                            "deezer": {
+                                "track": {
+                                    "id": "391096021"
+                                },
+                                "artists": [
+                                    {
+                                        "id": "4747778"
+                                    },
+                                    {
+                                        "id": "4782876"
+                                    }
+                                ],
+                                "album": {
+                                    "id": "45743581"
+                                }
+                            }
+                        },
+                        "release_date": "2017-07-28"
+                    }
+                ]
+            },
+            "cost_time": 0.055999994277954,
+            "status": {
+                "msg": "Success",
+                "version": "1.0",
+                "code": 0
+            },
+            "result_type": 0
+        }
+    ]
+}

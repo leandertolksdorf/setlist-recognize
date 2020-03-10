@@ -46,7 +46,7 @@ class Soundcloud(Scraper):
         self.headers = {
             'Host': 'api-v2.soundcloud.com',
             'Connection': 'keep-alive',
-            'Authorization': 'OAuth 2-290697-105788744-ao7e9JU9hmNo6y',
+            'Authorization': 'OAuth 2-291184-105788744-o8Y5JAHY7WrvUy',
             'Origin': 'https://soundcloud.com',
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
             'Accept': '*/*',
@@ -59,6 +59,7 @@ class Soundcloud(Scraper):
 
     def get_track_id (self):
         self.track_id = re.search(r'soundcloud://sounds:(\w+)"', self.html.text).group(1)
+        print(self.track_id)
     
     def get_title (self):
         self.title = re.split("\ \|", self.soup.title.string)[0]
@@ -67,6 +68,7 @@ class Soundcloud(Scraper):
 
         # GET THE HTTP-REQUEST URL FOR THE MP3 FILE
         metadata = requests.get('https://api.soundcloud.com/tracks/{}'.format(self.track_id), headers=self.headers).json()
+        print(metadata)
         request_mp3 = metadata['media']['transcodings'][1]['url']
 
         # GET THE FINAL MP3-URL
